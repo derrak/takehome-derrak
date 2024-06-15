@@ -1,2 +1,2 @@
 [api]
-endpoint = "http://thesimpsonsquoteapi.glitch.me"
+endpoint = "http://thesimpsonsquoteapi.glitch.me/quotes"
