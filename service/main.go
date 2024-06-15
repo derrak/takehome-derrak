@@ -15,7 +15,7 @@ import (
 
 const configFile = "config.toml"
 
-var defaultEndpoint = "http://thesimpsonsquoteapi.glitch.me:443/quotes"
+var defaultEndpoint = "https://thesimpsonsquoteapi.glitch.me:443/quotes"
 
 type Config struct {
 	Endpoint string `toml:"endpoint"`
