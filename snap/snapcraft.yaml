@@ -17,3 +17,5 @@ parts:
   service:
     plugin: go
     source: .
+    organize:
+      config.toml: /var/snap/rigado-takehome/x1/config.toml
